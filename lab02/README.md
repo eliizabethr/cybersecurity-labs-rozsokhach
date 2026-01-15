@@ -6,7 +6,7 @@
 
 1. Переконайтеся, що у вас встановлений Python 3. Якщо Python не встановлений - завантажте його з офіційного сайту: https://www.python.org/downloads/.
 2. Переконайтеся, що ви знаходитеся в папці `lab02` в терміналі.
-3. Виконайте команду `python main.py` (Windows) або `python3 main.py` (macOS/Linux)
+3. Запустіть програму на виконання: `python main.py` (Windows) або `python3 main.py` (macOS/Linux)
 
 ## Приклад використання програми
 
